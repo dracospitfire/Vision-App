@@ -23,7 +23,10 @@ export const AppProvider = (props) => {
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo"/>
                     <p>
-                    Welcome <code><u>Vision Team!</u></code> This is your first React App.
+                    Welcome <code><u>Vision Team!</u></code> This is our first React App.
+                    </p>
+                    <p>
+                    Michael <code><u> first collabrative addition</u></code> 
                     </p>
                         <a
                         className="App-link"
