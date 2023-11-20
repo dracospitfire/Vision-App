@@ -13,7 +13,7 @@ const Backend = (props) => {
     <div className="App">
         <AppContext/>
         <header className="App-header">
-            <img src={image} className="image" alt="image"/>
+            <img src={image} className="image" alt="cyber"/>
         </header>
     </div>
     );
