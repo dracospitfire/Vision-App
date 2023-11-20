@@ -26,7 +26,7 @@ export const AppProvider = (props) => {
                     Welcome <code><u>Vision Team!</u></code> This is our first React App.
                     </p>
                     <p>
-                    Michael <code><u> first collabrative addition</u></code> 
+                    Michael, Austin, Mario, and Adan's <code><u> first collabrative addition</u></code> 
                     </p>
                         <a
                         className="App-link"
