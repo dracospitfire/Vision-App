@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Vision-App/static/css/main.a102879e.css",
-    "main.js": "/Vision-App/static/js/main.3056fd6a.js",
+    "main.js": "/Vision-App/static/js/main.55773225.js",
     "static/js/787.b7aa47ca.chunk.js": "/Vision-App/static/js/787.b7aa47ca.chunk.js",
     "static/media/image.jpg": "/Vision-App/static/media/image.a1874052dc41594398cc.jpg",
     "static/media/logo.svg": "/Vision-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Vision-App/index.html",
     "main.a102879e.css.map": "/Vision-App/static/css/main.a102879e.css.map",
-    "main.3056fd6a.js.map": "/Vision-App/static/js/main.3056fd6a.js.map",
+    "main.55773225.js.map": "/Vision-App/static/js/main.55773225.js.map",
     "787.b7aa47ca.chunk.js.map": "/Vision-App/static/js/787.b7aa47ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a102879e.css",
-    "static/js/main.3056fd6a.js"
+    "static/js/main.55773225.js"
   ]
 }
